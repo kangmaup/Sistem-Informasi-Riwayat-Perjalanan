@@ -1,6 +1,6 @@
 <?php
 
-$koneksi = mysqli_connect("localhost", "root","", "tubes");
+$koneksi = mysqli_connect("localhost", "root","", "tubess");
 
 
 function query($query)
